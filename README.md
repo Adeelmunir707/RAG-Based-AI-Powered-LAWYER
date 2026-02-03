@@ -1,4 +1,4 @@
-# AI Lawyer - Legal Document Analysis and Question Answering
+# RAG: AI Powered Legal Analyler/Lawyer - Legal Document Analysis and Question Answering
 
 The AI Lawyer project is a sophisticated application designed to aid legal professionals, researchers, and curious minds in comprehending and extracting insights from legal documents. Leveraging cutting-edge natural language processing and machine learning techniques, this tool streamlines the process of navigating and extracting valuable information from legal documents, making it an invaluable asset in the legal domain.
 
